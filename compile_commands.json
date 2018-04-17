@@ -1,0 +1,8 @@
+[
+	{
+		"command": "cc -c -o test_src.o /home/aseciwa//asciiContenServer-mod/test_src.c",
+		"directory": "/home/aseciwa/asciiContentServer-mod",
+		"file": "/home/aseciwa/asciiContentServer-mod/test_src.c"
+	}
+
+]
